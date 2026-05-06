@@ -1,0 +1,26 @@
+body {background-image: url('background\ fundo.png'); background-size: cover; background-position: center; background-attachment: fixed;
+}
+
+h1 {text-align: center; color: rgb(255, 255, 255); font-size: 46px;
+}
+
+h2 {color: rgb(255, 255, 255); font-size: 40px; text-align: center;
+}
+
+div {color: rgb(7, 144, 236);font-size: 23px;
+}
+
+.conteiner-flex {display: flex; align-items: center; justify-content: center; gap: 20px;
+}
+
+img {max-width: 100%; height: auto; border-radius: 8px;
+}
+
+section div {
+    display: flex;
+    justify-content: center;
+}
+
+section ul {
+    text-align: left; /* mantém os itens organizados */
+}
